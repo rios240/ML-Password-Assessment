@@ -1,5 +1,3 @@
-## Introduction
-
 ### Traditional Methods of Password Strength Assessment
 
 Traditionally, password strength is assessed using a set of predefined rules or metrics. These methods generally focus on the superficial attributes of a password rather than its intrinsic strength against attack methods. Common criteria include:
